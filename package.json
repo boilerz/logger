@@ -1,0 +1,32 @@
+{
+  "name": "@boilerz/logger",
+  "version": "1.0.0",
+  "description": "Bunyan + Sentry based logger.",
+  "main": "index.js",
+  "repository": "git@github.com:boilerz/logger.git",
+  "author": "momsse",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
+    "build": "buildTSPackage"
+  },
+  "devDependencies": {
+    "@boilerz/build-tools": "^1.1.0",
+    "@boilerz/eslint-config": "1.4.0",
+    "@boilerz/prettier-config": "^1.0.0",
+    "@boilerz/tsconfig": "^1.0.0",
+    "@types/bunyan": "^1.8.6",
+    "@types/read-pkg": "^5.1.0",
+    "eslint": "^5",
+    "prettier": "^1",
+    "typescript": "^3"
+  },
+  "dependencies": {
+    "@sentry/node": "^5.5.0",
+    "@sentry/types": "^5.5.0",
+    "bunyan": "^1.8.12",
+    "bunyan-sentry-stream": "^1.2.1",
+    "read-pkg": "^5.2.0"
+  }
+}
