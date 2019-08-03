@@ -2,7 +2,7 @@
   "name": "@boilerz/logger",
   "version": "1.0.1",
   "description": "Bunyan + Sentry based logger.",
-  "main": "./logger.js",
+  "main": "src/index.ts",
   "repository": "git@github.com:boilerz/logger.git",
   "author": "momsse",
   "license": "MIT",
