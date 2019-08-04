@@ -19,7 +19,7 @@ This logger module setup itself by capturing his configuration from the environm
 | LOGGER_NAME        | `package.json[name]`              | Logger name.                                 |
 | LOGGER_LEVEL       | `info`                            | Logger level.                                |
 | SENTRY_DSN         |                                   | Sentry dsn. (*Optional for sentry support*). |                            |
-| SENTRY_DIST        | `process.env.HEROKU_SLUG_COMMIT`  | API Endpoint                                 |
+| SENTRY_DIST        | `process.env.HEROKU_SLUG_COMMIT`  | Sentry dist.                                 |
 
 
 ```js
