@@ -7,7 +7,7 @@
 ### Install
 
 ````bash
-yarn add @boilerz/logger
+npx install-peerdeps @boilerz/logger
 ````
 
 ### Usage
