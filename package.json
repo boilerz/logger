@@ -16,12 +16,12 @@
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.1.0",
-    "@boilerz/eslint-config": "1.4.0",
+    "@boilerz/eslint-config": "1.5.0",
     "@boilerz/prettier-config": "^1.0.0",
     "@boilerz/tsconfig": "^1.0.0",
     "@sentry/node": "^5.6.1",
     "@types/read-pkg": "^5.1.0",
-    "eslint": "^5",
+    "eslint": "^6.1.0",
     "prettier": "^1",
     "typescript": "^3"
   },
@@ -31,5 +31,16 @@
     "bunyan": "^1.8.12",
     "bunyan-sentry-stream": "^1.2.1",
     "read-pkg": "^5.2.0"
+  },
+  "greenkeeper": {
+    "commitMessages": {
+      "initialBadge": ":pencil: add Greenkeeper badge",
+      "initialDependencies": ":arrow_up: update dependencies",
+      "initialBranches": ":tada: whitelist greenkeeper branches",
+      "dependencyUpdate": ":arrow_up: update ${dependency} to version ${version}",
+      "devDependencyUpdate": ":arrow_up: update ${dependency} to version ${version}",
+      "dependencyPin": ":pushpin: pin ${dependency} to ${oldVersion}",
+      "devDependencyPin": ":pushpin: pin ${dependency} to ${oldVersion}"
+    }
   }
 }
