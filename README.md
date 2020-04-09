@@ -1,6 +1,6 @@
 # @boilerz/logger
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/logger)](https://www.npmjs.com/package/@boilerz/logger) [![Greenkeeper badge](https://badges.greenkeeper.io/boilerz/logger.svg)](https://greenkeeper.io/)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/logger)](https://www.npmjs.com/package/@boilerz/logger)
 
 > Bunyan logger with Sentry support.
 
