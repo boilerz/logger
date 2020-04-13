@@ -1,5 +1,6 @@
 # @boilerz/logger
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/boilerz/logger/blob/master/LICENSE)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/logger)](https://www.npmjs.com/package/@boilerz/logger)
 
 > Bunyan logger with Sentry support.
