@@ -129,10 +129,15 @@
     lru_map "^0.3.3"
     tslib "^1.9.3"
 
-"@sentry/types@5.17.0", "@sentry/types@^5.17.0":
+"@sentry/types@5.17.0":
   version "5.17.0"
   resolved "https://registry.yarnpkg.com/@sentry/types/-/types-5.17.0.tgz#b8d245ac7d5caa749c549e9f72aab2d6522afe63"
   integrity sha512-1z8EXzvg8GcsBNnSXgB5/G7mz2PwmMt9mjOrVG1jhtSGH1c7WvB32F5boqoMcjIJmy5MrBGaaXwrF/RRJrwUQg==
+
+"@sentry/types@^5.18.0":
+  version "5.18.0"
+  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-5.18.0.tgz#8ae1f08a2b8887cccd3a28c0a88e3add1bb5d3ec"
+  integrity sha512-5zqgN9qkbDqjyFxeiP7g55zAugRXPzmAwaz+WXCv0EJfb8aVf5iiD7SfgO++pwS8BPH3EH9d4zHWAKI8mM6ZcQ==
 
 "@sentry/utils@5.17.0":
   version "5.17.0"
