@@ -26,7 +26,7 @@
     "typescript": "^3"
   },
   "dependencies": {
-    "@sentry/types": "^5.21.0",
+    "@sentry/types": "^5.21.1",
     "@types/bunyan": "^1.8.6",
     "bunyan": "^1.8.14",
     "bunyan-sentry-stream": "^1.2.1",
