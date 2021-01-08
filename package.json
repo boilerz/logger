@@ -28,7 +28,7 @@
   "dependencies": {
     "@sentry/types": "^5.29.2",
     "@types/bunyan": "^1.8.6",
-    "bunyan": "^1.8.14",
+    "bunyan": "^1.8.15",
     "bunyan-sentry-stream": "^1.2.1",
     "read-pkg": "^5.2.0"
   },
