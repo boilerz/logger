@@ -1,4 +1,5 @@
 import process from 'process';
+
 import * as Sentry from '@sentry/node';
 import Logger, {
   createLogger,
