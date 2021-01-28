@@ -58,10 +58,10 @@
     eslint-plugin-react "^7.22.0"
     eslint-plugin-react-hooks "^4.2.0"
 
-"@boilerz/prettier-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@boilerz/prettier-config/-/prettier-config-1.0.0.tgz#5fbbc39512390c2f91bf16f0568c601f93d6fdd7"
-  integrity sha512-mM5neNrNdV79wRFFuKutFBAV56ndIGf1CjB66DUtz7pizHStuFxMtnJgGvHDQEKotCxt3F1L1jEtPh72EUEUZg==
+"@boilerz/prettier-config@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@boilerz/prettier-config/-/prettier-config-1.0.1.tgz#cc78ac15bf1911c363a1cbfc4665fdaaa71bffda"
+  integrity sha512-FF2UDlIgICKmSD827pl5gp7BFWQOgE1VXaarLMSFG59iIbMOsC/Znx9ya2X69ccjiAzGfyqViGi4TfwjG30xYA==
 
 "@boilerz/tsconfig@^1.3.1":
   version "1.3.1"
