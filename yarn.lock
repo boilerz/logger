@@ -38,10 +38,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@boilerz/build-tools@^1.4.4":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.4.4.tgz#a5eea50fd8b353a99b34ef804445a8d19d31b50b"
-  integrity sha512-BUe3W31fdjTiq7Jy2gk3Kwy7bPFt9137kDercPvgy3G83z8taR+viDpKshSNiZVAFnNi86VKb/vctR7vKdtchw==
+"@boilerz/build-tools@^1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.4.5.tgz#ec01e33f9c56afddd604f2de87610329fdb39e3f"
+  integrity sha512-HZ/rOvXX8rmqnKElzUm/79cfCtPgt6JZx3aQvMRL+buHChdllADvqSC0G1xfXPLFlVXUEqf0QOPfdS44WK0E9A==
 
 "@boilerz/eslint-config@^2.0.2":
   version "2.0.2"
