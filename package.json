@@ -15,11 +15,11 @@
     "@sentry/node": "^6.2.0"
   },
   "devDependencies": {
-    "@boilerz/build-tools": "^1.4.8",
+    "@boilerz/build-tools": "^1.5.1",
     "@boilerz/eslint-config": "^2.0.8",
     "@boilerz/prettier-config": "^1.0.3",
-    "@boilerz/tsconfig": "^1.4.5",
-    "@boilerz/tsconfig-production": "^1.4.5",
+    "@boilerz/tsconfig": "^1.4.6",
+    "@boilerz/tsconfig-production": "^1.4.6",
     "@sentry/node": "^6.2.0",
     "@types/read-pkg": "^5.1.0",
     "eslint": "^7.20.0",
