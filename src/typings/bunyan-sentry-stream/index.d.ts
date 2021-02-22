@@ -17,7 +17,7 @@ declare module 'bunyan-sentry-stream' {
   }
 
   export default class SentryStream {
-    // eslint-disable-next-line no-useless-constructor, @typescript-eslint/no-empty-function
+    // eslint-disable-next-line no-useless-constructor, @typescript-eslint/no-empty-function,@typescript-eslint/no-unused-vars
     public constructor(client: Client) {}
   }
 }
