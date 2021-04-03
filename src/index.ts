@@ -8,12 +8,12 @@ import Logger, {
   stdSerializers,
 } from 'bunyan';
 import SentryStream from 'bunyan-sentry-stream';
-import readPkg from 'read-pkg';
+import { readPackageSync } from 'read-pkg';
 
 import client from './sentry-stream-client';
 
 const defaultOptions: LoggerOptions = {
-  name: process.env.LOGGER_NAME || readPkg.sync({ cwd: process.cwd() }).name,
+  name: process.env.LOGGER_NAME || readPackageSync({ cwd: process.cwd() }).name,
   level: (process.env.LOGGER_LEVEL as LogLevelString) || 'info',
   serializers: {
     err: stdSerializers.err,
