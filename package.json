@@ -1,6 +1,6 @@
 {
   "name": "@boilerz/logger",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "description": "Bunyan + Sentry based logger.",
   "main": "src/index.ts",
   "repository": "git@github.com:boilerz/logger.git",
