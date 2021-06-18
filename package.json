@@ -19,7 +19,7 @@
     "@boilerz/build-tools": "^1.5.8",
     "@boilerz/eslint-config": "^2.0.33",
     "@boilerz/prettier-config": "^1.0.4",
-    "@boilerz/tsconfig": "^1.4.11",
+    "@boilerz/tsconfig": "^1.4.12",
     "@boilerz/tsconfig-production": "^1.4.12",
     "@sentry/node": "^6.7.1",
     "@types/read-pkg": "^5.1.0",
