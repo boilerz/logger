@@ -23,7 +23,7 @@
     "@boilerz/tsconfig-production": "^1.4.12",
     "@sentry/node": "^6.8.0",
     "@types/read-pkg": "^5.1.0",
-    "eslint": "^7.30.0",
+    "eslint": "^7.31.0",
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   },
