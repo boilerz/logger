@@ -20,7 +20,7 @@
     "@boilerz/eslint-config": "^2.0.37",
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.14",
-    "@boilerz/tsconfig-production": "^1.4.13",
+    "@boilerz/tsconfig-production": "^1.4.14",
     "@sentry/node": "^6.19.6",
     "@types/read-pkg": "^5.1.0",
     "eslint": "^7.32.0",
