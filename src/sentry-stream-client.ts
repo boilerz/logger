@@ -1,5 +1,5 @@
 import * as Sentry from '@sentry/node';
-import { Scope } from '@sentry/types';
+import type { Scope } from '@sentry/node';
 import { Client, LegacyRavenContext } from 'bunyan-sentry-stream';
 
 /**
