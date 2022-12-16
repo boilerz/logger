@@ -13,7 +13,7 @@
     "build": "buildTSPackage"
   },
   "peerDependencies": {
-    "@sentry/node": "^7.26.0"
+    "@sentry/node": "^7.27.0"
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.5.69",
@@ -21,7 +21,7 @@
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.16",
     "@boilerz/tsconfig-production": "^1.4.16",
-    "@sentry/node": "^7.26.0",
+    "@sentry/node": "^7.27.0",
     "@types/read-pkg": "^5.1.0",
     "eslint": "^7.32.0",
     "prettier": "^2.8.1",
