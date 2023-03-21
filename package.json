@@ -24,7 +24,7 @@
     "@sentry/node": "^7.44.1",
     "@types/read-pkg": "^5.1.0",
     "eslint": "^7.32.0",
-    "prettier": "^2.8.5",
+    "prettier": "^2.8.6",
     "typescript": "^5.0.2"
   },
   "dependencies": {
