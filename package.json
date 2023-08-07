@@ -16,7 +16,7 @@
     "@sentry/node": "^7.61.1"
   },
   "devDependencies": {
-    "@boilerz/build-tools": "^1.5.118",
+    "@boilerz/build-tools": "^1.5.119",
     "@boilerz/eslint-config": "^2.0.38",
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.19",
